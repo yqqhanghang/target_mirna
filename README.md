@@ -1,6 +1,6 @@
 
 ##  Target gene and miRNA comparison table
-species: *Betula* pendula 'Purple Rain'
+species: *Betula* pendula'Purple Rain'
 
 |target gene	|	miRNA|
 |----------	|	----------|
