@@ -1,4 +1,4 @@
-# target_mirna
+# Target gene and miRNA comparison table
 
 |target gene	|	miRNA|
 |----------	|	----------|
